@@ -25,7 +25,7 @@ This program is a mini demo that inverts the pixel intensities in a 2D .dicom im
 
 1. Clone this repository:
    ```powershell
-   git clone <repository-url>
+   git clone <https://github.com/milo-neumann/chest-CT-analysis.git>
    ```
 2. Open CMake GUI.
 3. Set **Source** to the cloned repository folder.
