@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.ipch
+
+# Build outputs
+build/
+Debug/
+Release/
+x64/
+x86/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
